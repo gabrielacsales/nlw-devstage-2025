@@ -1,34 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# DevStage NLW 2025 - Aplicação React
 
-First, run the development server:
+Este repositório contém a aplicação que desenvolvi durante a **NLW 2025 - DevStage**, evento organizado pela Rocketseat. A aplicação é construída em **React** e tem como objetivo demonstrar um fluxo de inscrição e convite para outros usuários, exibindo um ranking de indicações.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<br/>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Demonstração
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Tela de Inscrição e Ranking](./readme-imagem/imagem.png)  
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+**Principais Funcionalidades:**
+- Exibição de confirmação de inscrição
+- Geração de link de convite para compartilhar com outras pessoas
+- Ranking de indicações (com contagem de quantas pessoas foram convidadas)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<br/>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Tecnologias Utilizadas
 
-## Deploy on Vercel
+- **[React](https://reactjs.org/)**  
+- **NextJS**   
+- **Tailwind**
+-  **Lucide-React**, **React Router**, **react-hook-form**, **zod**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<br/>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Pré-requisitos
+
+- **Node.js** (versão 14+)
+- **npm** ou **yarn** (gerenciador de pacotes)
+
+<br/>
+
+## Como Executar o Projeto
+
+1. **Clonar o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repo.git
+   ```
+2. **Entrar na pasta do projeto**:
+   ```bash
+   cd seu-repo
+   ```
+3. **Instalar as dependências**:
+   ```bash
+   npm install
+   ```
+   ou
+   ```bash
+   yarn
+   ```
+4. **Iniciar o servidor de desenvolvimento**:
+   ```bash
+   npm run dev
+   ```
+   ou
+   ```bash
+   yarn dev
+   ```
+5. Abra [http://localhost:3000](http://localhost:3000) (ou a porta indicada no terminal) para visualizar a aplicação.
+
+<br/>
+
+<br/>
+
+## Contribuição
+
+Fique à vontade para abrir **Issues** e enviar **Pull Requests**. Toda ajuda é bem-vinda!
+
+
+<br/>
+
+---
+
+**Observação:** Ajuste o conteúdo, a imagem e os links conforme a sua estrutura real. Se tiver mais dúvidas ou precisar de ajuda extra, é só avisar!  
+
+*Desenvolvido durante a NLW 2025 - DevStage, por Gabriel Sales(https://github.com/gabrielacsales).*
