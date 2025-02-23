@@ -7,7 +7,7 @@ Este repositório contém a aplicação que desenvolvi durante a **NLW 2025 - De
 
 ## Demonstração
 
-![Tela de Inscrição e Ranking](./readme-imagem/imagem.png)  
+![Tela de Inscrição e Ranking](./imagem.png)  
 
 
 **Principais Funcionalidades:**
@@ -63,11 +63,46 @@ Este repositório contém a aplicação que desenvolvi durante a **NLW 2025 - De
 
 <br/>
 
-<br/>
+---
+
 
 ## Contribuição
 
 Fique à vontade para abrir **Issues** e enviar **Pull Requests**. Toda ajuda é bem-vinda!
+
+
+<br/>
+
+---
+
+<br/>
+
+## Repositório Original do Projeto
+
+Caso queiram dar uma olhada no repositório oficial da 
+[rocketseat](https://github.com/rocketseat-education/nlw-connect-react/commit/1102be9ee77159966e9542129af40e1db9f5bba7)
+
+
+<br/>
+
+---
+<br/>
+
+## Notion
+
+Principais informações do projeto:
+[Notion rocketseat](https://efficient-sloth-d85.notion.site/React-19d395da577080e091c5e31be831667b)
+
+
+<br/>
+
+---
+<br/>
+
+## Layout
+
+Aqui também tem o layout desenvolvido pela equipe da Rocketseat para conhecer melhor qual foi o tema da edição: 
+[Layou do projeto rocketseat](https://www.figma.com/community/file/1471119935944492720/nlw-connect-devstage)
 
 
 <br/>
